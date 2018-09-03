@@ -5,7 +5,7 @@
     
     
   <url>
-    <loc>https://wizare.github.io/2018/08/19/Incorporating-Copying-Mechanism-in-Sequence-to-Sequence-Learning/</loc>
+    <loc>wizare.github.io/2018/08/19/Incorporating-Copying-Mechanism-in-Sequence-to-Sequence-Learning/</loc>
     <lastmod>2018-08-19T13:01:26.285Z</lastmod>
     <data>
         <display>
@@ -19,7 +19,7 @@
          
            
              
-              <breadCrumb title="NLP" url="https://wizare.github.io/categories/NLP/"/>
+              <breadCrumb title="NLP" url="wizare.github.io/categories/NLP/"/>
           
         </display>
     </data>
@@ -27,7 +27,7 @@
 
     
   <url>
-    <loc>https://wizare.github.io/2018/08/19/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
+    <loc>wizare.github.io/2018/08/19/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2018-08-19T12:02:26.462Z</lastmod>
     <data>
         <display>
@@ -41,7 +41,7 @@
          
            
              
-              <breadCrumb title="Hexo" url="https://wizare.github.io/categories/Hexo/"/>
+              <breadCrumb title="Hexo" url="wizare.github.io/categories/Hexo/"/>
           
         </display>
     </data>
